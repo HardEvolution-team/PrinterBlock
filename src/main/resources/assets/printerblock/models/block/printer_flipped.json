@@ -1,0 +1,9 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "top": "printerblock:blocks/printer_up",
+    "front": "printerblock:blocks/printer_side3",
+    "side": "printerblock:blocks/printer_side",
+    "bottom": "printerblock:blocks/printer_side"
+  }
+}

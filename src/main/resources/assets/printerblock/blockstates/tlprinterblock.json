@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "facing=north,flipped=false": {
+      "model": "printerblock:printer"
+    },
+    "facing=north,flipped=true": {
+      "model": "printerblock:printer_flipped"
+    },
+    "facing=east,flipped=false": {
+      "model": "printerblock:printer",
+      "y": 90
+    },
+    "facing=east,flipped=true": {
+      "model": "printerblock:printer_flipped",
+      "y": 90
+    },
+    "facing=south,flipped=false": {
+      "model": "printerblock:printer",
+      "y": 180
+    },
+    "facing=south,flipped=true": {
+      "model": "printerblock:printer_flipped",
+      "y": 180
+    },
+    "facing=west,flipped=false": {
+      "model": "printerblock:printer",
+      "y": 270
+    },
+    "facing=west,flipped=true": {
+      "model": "printerblock:printer_flipped",
+      "y": 270
+    }
+  }
+}
